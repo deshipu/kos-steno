@@ -1,2 +1,2 @@
 # kos-steno
-A one-piece low-profile steno keyboard
+A one-piece low-profile steno keyboard.
